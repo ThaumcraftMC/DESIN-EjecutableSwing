@@ -108,6 +108,7 @@ public class InterfazLeer {
 				}
 			}
 		});
+		
 		btnWrite.setBounds(40, 126, 85, 35);
 		frame.getContentPane().add(btnWrite);
 	}
